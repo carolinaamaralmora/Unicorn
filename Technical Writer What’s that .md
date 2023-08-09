@@ -5,7 +5,7 @@
 
 
 This is an article for copywriters and other kind of writers that do not have experience in Technical Writing and want to learn or pursue a career in this area. 
-I highly recommend checking the courses of [![aptlearn.io](https://aptlearn.io/))], [![Google courses](https://developers.google.com/tech-writing)](https://developers.google.com/tech-writing), and [![Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)](https://www.youtube.com/watch?v=RGOj5yH7evk). You can also check online tutorials of Document360 and Adobe FrameMaker on Youtube. Other useful courses can also be found in [![Uxwritinghub](https://course.uxwritinghub.com/free_course)](https://course.uxwritinghub.com/free_course) for those interested in UX Writing.
+I highly recommend checking the courses of [![Aptlearn](https://aptlearn.io/)](https://aptlearn.io/)], [![Google courses](https://developers.google.com/tech-writing)](https://developers.google.com/tech-writing), and [![Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)](https://www.youtube.com/watch?v=RGOj5yH7evk). You can also check online tutorials of Document360 and Adobe FrameMaker on Youtube. Other useful courses can also be found in [![Uxwritinghub](https://course.uxwritinghub.com/free_course)](https://course.uxwritinghub.com/free_course) for those interested in UX Writing.
 
 
 ## Contents
